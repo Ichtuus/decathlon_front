@@ -19,7 +19,10 @@
 	};
 </script>
 
-<div class="grid grid-cols-3 items-center gap-5 rounded-full" style="background-color: #07178a;">
+<div
+	class="grid w-full grid-cols-3 items-center gap-5 rounded-full"
+	style="background-color: #07178a;"
+>
 	<div
 		style="background-image: url('https://contents.mediadecathlon.com/s1083368/k$8a3e3aa5b3b0087c42e960a1c0df61f2/JO%20motif%20gauche.png'); background-size: 100% auto;"
 		class="h-20 w-72 justify-self-start rounded-full"
