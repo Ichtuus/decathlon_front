@@ -1,8 +1,13 @@
 <script lang="ts">
 	import WidgetContainer from '../../features/widgets/views/widgetContainer.svelte';
 	import PubContainer from '../../features/pub/views/pubContainer.svelte';
+	import CategoriesContainer from '../../features/categories/views/categoriesContainer.svelte';
 </script>
 
-<WidgetContainer />
+<div class="flex flex-wrap gap-24">
+	<WidgetContainer />
 
-<PubContainer />
+	<PubContainer />
+
+	<CategoriesContainer />
+</div>

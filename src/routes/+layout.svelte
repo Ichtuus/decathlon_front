@@ -41,7 +41,7 @@
 					<li>
 						<a
 							href={navItem.link}
-							class="block rounded px-3 py-2 text-white md:p-0"
+							class="block rounded px-3 py-2 md:p-0"
 							class:text-red-700={navItem.highlight}
 							class:text-gray-700={!navItem.highlight}
 							aria-current="page">{navItem.label}</a

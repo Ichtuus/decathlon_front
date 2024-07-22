@@ -1,14 +1,4 @@
-<!-- <script lang="ts">
-	import type { IWidgetItem } from '../config/type';
 
-	export let widgetItem: IWidgetItem;
-</script>
-
-	<div class="flex-1 bg-amber-300">1</div>
-	<div class="">
-		<div class="w-80 bg-amber-500">2</div>
-		<div class="w-80 bg-amber-700">3</div>
-	</div> -->
 <script lang="ts">
 	import type { IWidgetItem } from '../config/type';
 	export let widget: IWidgetItem;
